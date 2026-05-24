@@ -154,7 +154,6 @@ Add your screenshots in an `Images` folder.
 
 Example:
 
-```md
 ![Executive Overview](Images/Executive_overview.png)
 
 ![Customer](Images/Customer.png)
@@ -167,7 +166,6 @@ Example:
 
 ![Restaurant Details](Images/Restaurant_details.png)
 
-```
 
 ---
 
